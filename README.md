@@ -8,5 +8,10 @@ The model can detect and do prediction of multiple faces at the same time.
 
 # Working
 
-With Mask(https://github.com/sebastianmathai/Facemask-Detector/blob/main/mask.png)
+With Mask
 
+![alt text](https://github.com/sebastianmathai/Facemask-Detector/blob/main/mask.png)
+
+Without Mask
+
+![alt text](https://github.com/sebastianmathai/Facemask-Detector/blob/main/no_mask.png)
