@@ -29,7 +29,7 @@ Without Mask
         
 4. Download the necessary libraries:
 
-(*Hint: Install Jupyter Notebook before this step if not already available in your system*)
+   (*Hint: Install Jupyter Notebook before this step if not already available in your system*)
 
        pip install -r requirements.txt
       
