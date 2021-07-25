@@ -15,3 +15,24 @@ With Mask
 Without Mask
 
 ![alt text](https://github.com/sebastianmathai/Facemask-Detector/blob/main/no_mask.png)
+
+
+# Steps to use this project
+
+1. Clone this repository on to the system:
+
+       git clone https://github.com/sebastianmathai/Facemask-Detector.git
+
+2. Navigate to the directory:
+
+       cd Facemask-Detector
+        
+4. Download the necessary libraries:
+
+(*Hint: Install Jupyter Notebook before this step if not already available in your system*)
+
+       pip install -r requirements.txt
+      
+4. Open Jupyter Notebook
+5. Run the notebook "object_detection_live.ipynb"
+## Now the project is ready to use and can experience a real-time detection of the facemask by using the webcam
